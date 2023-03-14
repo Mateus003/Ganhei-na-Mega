@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GanheiNaMega</string>
+    <string name="title">Boa Sorte!</string>
+    <string name="number_amount">Digite um número entre 6 e 15</string>
+    <string name="number_generate">Gerar números</string>
+    <string name="entry_out_scope">Digite um número de intervalo entre 6 e 15</string>
+    <string name="input_empty">Não deixe o campo vazio</string>
+</resources>
